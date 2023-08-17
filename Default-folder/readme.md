@@ -34,6 +34,7 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 #### Security Account Manager (SAM)
 `c:\Windows\System32\config\sam`
 `\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\windows\system32\config\sam`
+
 Key decryption:
 `c:\Windows\System32\Config\system`
 `\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\windows\system32\config\system`
