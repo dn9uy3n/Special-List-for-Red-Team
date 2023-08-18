@@ -1,0 +1,33 @@
+hGo-http-client/6.6.6 ( https://github.com/x0xO/hhttp)
+hGo-http-client/6.6.6 (+https://github.com/x0xO/hhttp)
+Go-http-client/3.4
+Go-http-client/2.0 (feditools-relay/v0.11.0-83b3d41; +https://relay.fedi.tools/)
+Go-http-client/2.0;
+Go-http-client/2.0,gzip(gfe)
+Go-http-client/2.0
+Go-http-client/1.1
+Go-http-client/1.1, APIs-Ayeh (+https://ayeh.io/about)
+TuneIn-DirMon/1.0 Go-http-client/1.1
+go-http-client/1.1 361
+Mozilla/5.0 (compatible; Go-http-client/1.1; +aaa@bbb.com)
+Go-http-client/1.1
+Go-http-client/1.1 68
+hGo-http-client/1.0.7 (+https://github.com/x0xO/hhttp)
+Go-http-client/1.1 365
+Go-http-client/1.1 26
+Go-http-client/1.1 367
+Go-http-client/1.1 27
+Go-http-client/1.2
+Go-http-client/1.1,APIs-Ayeh (+https://ayeh.io/about)
+Go-http-client/1.1,gzip(gfe)
+Go-http-client/1.1 28
+Go-http-client/1.99/TEST/MM
+Go-http-client/1.1 43
+1,Go-http-client/1.1,538343374
+Go-http-client/1.1 25
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, Go-http-client/1.1) Version/6.0 Mobile/10A5376e Safari/8536.25
+Go-http-client/1.1 https://hstspreload.org/ checker; see https://sapphire.alexcohn.com/hsts.html
+Go-http-client/1.1 366
+Go-http-client/1.1;
+go-httpclient v0.5.1
+Go-http-client

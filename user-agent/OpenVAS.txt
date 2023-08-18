@@ -1,0 +1,24 @@
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 22.4.1)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 22.4.0)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.4)r
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.3)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.0~git-32ad87a4-HEAD)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.2)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.0~dev1)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.4)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.0~git-4f11a5e3-HEAD)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.3)r
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 21.4.0)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 20.8.1)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 20.8.0)r
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 20.8.0)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 11.0.0)
+Mozilla/5.0 {en} (X11, U: OpenVAS-VT 9.0.3)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 9.0.3)r
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 9.0.1)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 9.0.3)
+Other: Mozilla/5.0 [en] (X11, U; OpenVAS-VT 9.0.3)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 9.0.2)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 8.0.9)
+Mozilla/5.0 [en] (X11, U; OpenVAS-VT 8.0.9)r
+Microsoft WinRM Client OpenVAS-VT
