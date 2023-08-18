@@ -25,6 +25,6 @@ Similar to Shodan dork but on the Zoomeye platform
 
 
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/diepnhdotit)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/diepnhdotit.svg?style=social&label=Follow%20%40diepnhdotit)](https://twitter.com/diepnhdotit)
 
 [![Telegram](https://web.telegram.org/a/icon-192x192.png)](https://t.me/y4t0more)
