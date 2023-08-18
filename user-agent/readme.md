@@ -26,3 +26,12 @@ Curl sends its User-Agent string to the server in the following format: `curl/ve
 
 ### OpenVAS
 `Mozilla/5.0 [en] (X11, U; OpenVAS-VT 9.0.1)`
+
+### Burp Collaborator
+`idz6pd8f6rzyxnh910b6rb3wdnjhi5bt6gw4l.burpcollaborator.net 7.7.2 rv:4794 (iPhone; iPhone OS 9.3.3; en-US)`
+
+`http://sea8arhlbaq5k78x700splotuk0gohh57tzgq4f.burpcollaborator.net/6.17.0.RELEASE iPhone12,8 iOS/14.5.1))`
+
+### ClamAV Website Scanner
+`Mozilla/5.0 (compatible; archive.org_ClamAV/8.0.3 +http://www.loc.gov/webcrawler/bot.php)`
+
