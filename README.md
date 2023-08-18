@@ -19,3 +19,8 @@ user-agent of software that supports blue team investigation and analysis.
 ## [Zoomeye dork](./zoomeye-dorks/)
 Similar to Shodan dork but on the Zoomeye platform
 
+If you find that you need to add or edit information, please contact me!!! [^1]
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/diepnhdotit)
+
+[![Telegram](https://web.telegram.org/a/icon-192x192.png)](https://t.me/y4t0more)
