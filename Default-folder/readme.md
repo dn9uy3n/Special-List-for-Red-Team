@@ -61,3 +61,13 @@ C:\Windows\Microsoft.NET\Framework64\<version>\Config\web.config
 
 ### MSBuild
 `c:\Windows\Microsoft.NET\Framework\<version>\MSBuild.exe`
+
+## Cloud
+
+### Amazon Web Services
+
+The plain-text credentials existed on EC2 instance.
+
+`%UserProfile%\.aws\credentials`
+
+`$HOME/.aws/credentials`
