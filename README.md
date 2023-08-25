@@ -16,6 +16,14 @@ Synthesis of shodan dorks that support the attack and exploitation of vulnerabil
 ## [User agent](./user-agent/)
 user-agent of software that supports blue team investigation and analysis.
 
+## [Windows API](./Windows-API/)
+Windows API function of:
+- kernel32.dll
+- kernelbase.dll
+- ntdll.dll
+- amsi.dll
+
+
 ## [Zoomeye dork](./zoomeye-dorks/)
 Similar to Shodan dork but on the Zoomeye platform
 
