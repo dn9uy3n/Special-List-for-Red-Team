@@ -1,0 +1,17 @@
+## amsi.dll
+
+```
+AmsiCloseSession
+AmsiInitialize
+AmsiOpenSession
+AmsiScanBuffer
+AmsiScanString
+AmsiUacInitialize
+AmsiUacScan
+AmsiUacUninitialize
+AmsiUninitialize
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+```
