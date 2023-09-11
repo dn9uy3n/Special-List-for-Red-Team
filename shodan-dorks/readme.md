@@ -590,6 +590,10 @@ Example: Logitech Media Servers
 
 `"IPC$ all storage devices"`
 
+### MinIO Storage System
+
+`product:"MinIO"`
+
 # Webcams
 
 ### Generic camera search

@@ -22,6 +22,7 @@ Windows API function of:
 - kernelbase.dll
 - ntdll.dll
 - amsi.dll
+- ntdll.dll
 
 
 ## [Zoomeye dork](./zoomeye-dorks/)
