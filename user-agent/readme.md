@@ -22,6 +22,13 @@ Curl sends its User-Agent string to the server in the following format: `curl/ve
 ### Wget
 `Wget/1.12 (linux-gnu)`
 
+### certutil
+`Microsoft-CryptoAPI/10.0`
+
+`CertUtil URL Agent`
+
+
+
 ## Blue Team software
 
 ### OpenVAS
