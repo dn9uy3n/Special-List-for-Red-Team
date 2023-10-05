@@ -42,3 +42,5 @@ Curl sends its User-Agent string to the server in the following format: `curl/ve
 ### ClamAV Website Scanner
 `Mozilla/5.0 (compatible; archive.org_ClamAV/8.0.3 +http://www.loc.gov/webcrawler/bot.php)`
 
+### HCL AppScan
+`Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36`
